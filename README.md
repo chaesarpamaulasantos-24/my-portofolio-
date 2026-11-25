@@ -92,7 +92,7 @@ Bidang Ketertarikan: Pemrograman dan Pengembangan Perangkat Lunak
 Fokus Pembelajaran: HTML, CSS, JavaScript, dan Web Development
 Status: Pelajar dan Pengembang Pemula (Aspiring Developer)
 
-GitHub: "Kunjungi Profil GitHub Saya" (https://github.com/USERNAME)
+GitHub: "Kunjungi Profil GitHub Saya" (https://github.com/chaesarpamaulasantos-24)
 
 ---
 
